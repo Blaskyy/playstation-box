@@ -43,9 +43,9 @@ if __name__ == '__main__':
     gist_content = ''
     for record in show_records[:25]:
         line = [
-            truncate_strings(record['name'], 24).ljust(25),
+            truncate_strings(record['name'], 39).ljust(40),
             record['playDuration'].ljust(16),
-            generate_bar_chart(record['progress'], 20),
+            generate_bar_chart(record['progress'], 30),
             str(record['progress']).rjust(3) + '%'
         ]
         line = ' '.join(line)
