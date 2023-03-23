@@ -41,7 +41,7 @@ if __name__ == '__main__':
         show_records.append(record)
     show_records.sort(key=duration_sorter, reverse=True)
     gist_content = ''
-    for record in show_records[:25]:
+    for record in show_records[:30]:
         line = [
             truncate_strings(record['name'], 39).ljust(40),
             record['playDuration'].ljust(16),
