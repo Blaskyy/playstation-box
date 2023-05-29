@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gist.github.com/Blaskyy/a221e204ba1953baee14c95c4b06158c"><img width="400" src="https://raw.githubusercontent.com/Blaskyy/playstation-box/master/assets/pinned.png"></a>
+  <a href="https://gist.github.com/Blaskyy/a221e204ba1953baee14c95c4b06158c"><img width="640" src="https://raw.githubusercontent.com/Blaskyy/playstation-box/master/assets/pinned.png"></a>
   <h3 align="center">🎮 playstation-box</h3>
   <p align="center">Update a pinned gist to contain your PlayStation stats</p>
 </p>
@@ -24,3 +24,4 @@
    - PSN_NPSSO: The `npsso` value you copied in the previous step.
    - GH_TOKEN: The token you created in the previous step.
    - GIST_ID: The ID portion from your gist URL: `https://gist.github.com/your_name/<GIST_ID>`.
+   - <img width="640" src="https://raw.githubusercontent.com/Blaskyy/playstation-box/master/assets/github-env.png">
