@@ -1,5 +1,5 @@
 <p align="center">
-  <script src="https://gist.github.com/Blaskyy/a221e204ba1953baee14c95c4b06158c.js"></script>
+  <a href="https://gist.github.com/Blaskyy/a221e204ba1953baee14c95c4b06158c"><img width="400" src="https://raw.githubusercontent.com/Blaskyy/playstation-box/master/assets/pinned.png"></a>
   <h3 align="center">🎮 playstation-box</h3>
   <p align="center">Update a pinned gist to contain your PlayStation stats</p>
 </p>
