@@ -25,7 +25,7 @@ if __name__ == "__main__":
         npsso=npsso,
         access_token=psn_access_token,
         refresh_token=psn_refresh_token,
-        language="zh-Hans",
+        language="en-US",
     )
     update_github_repo_secret(
         repo=github_repo,
