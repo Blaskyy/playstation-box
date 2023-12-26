@@ -4,6 +4,7 @@
   <p align="center">Update a pinned gist to contain your PlayStation stats</p>
 </p>
 
+
 ## Setup
 1. Fork [this repository](https://github.com/Swilder-M/playstation-box).
 
