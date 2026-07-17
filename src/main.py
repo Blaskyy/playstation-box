@@ -57,7 +57,7 @@ if __name__ == "__main__":
         show_records.append(record)
     show_records.sort(key=duration_sorter, reverse=True)
     gist_content = ""
-    # .............100
+    # ..............100
     for record in show_records[:100]:
         line = [
             ljust_combined(truncate_strings(record["name"], 49), 50),
